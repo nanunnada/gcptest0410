@@ -1,0 +1,30 @@
+{
+  "name": "gcptest0410",
+  "version": "1.0.0",
+  "description": "gcptest0410",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanunnada/gcptest0410.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "nanunnada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanunnada/gcptest0410/issues"
+  },
+  "homepage": "https://github.com/nanunnada/gcptest0410#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "supertest": "^6.1.3"
+  }
+}
